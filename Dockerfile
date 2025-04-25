@@ -1,3 +1,6 @@
+
+# Fix einfügen: Dies ist der Beispielfix
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
