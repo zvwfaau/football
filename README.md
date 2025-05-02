@@ -16,7 +16,7 @@ Useful links:
 * [GRF Kaggle competition](https://www.kaggle.com/c/google-football) - take part in the competition playing games against others, win prizes and become the GRF Champion!
 
 
-We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
+We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game. Danke!
 
 
 ## Quick Start
